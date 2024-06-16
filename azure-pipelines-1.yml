@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  CICDPipelineTest
+  Ayansh
 
 steps:
 - script: echo Hello, world!
